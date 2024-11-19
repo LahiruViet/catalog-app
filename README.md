@@ -12,7 +12,7 @@ This server provides the backend functionality for the Angular frontend, allowin
 - JSON Data Storage: Products are stored and manipulated within a JSON file instead of a traditional database.
 
 ## Front End
-### Angular 17 for FE
+### Angular 18 for FE
 
 This project is a simple catalog application built with Angular, showcasing various Angular concepts including standalone apps, modules, services, components, and routing. In this application, users can perform basic CRUD (Create, Read, Update, Delete) operations on products in the catalog.
 
